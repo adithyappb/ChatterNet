@@ -22,14 +22,14 @@ gcc clientChat.c utilities.c -o clientChat
 Replace <server_ip> with the IP address of the server.
 
 Usage:
-> Run the server application.
-> Run the client application and enter username/password.
-> Start chatting with other clients.
-> Type 'q' to exit the chat.
+-> Run the server application.
+-> Run the client application and enter username/password.
+-> Start chatting with other clients.
+-> Type 'q' to exit the chat.
 
 Features:
-> User authentication
-> Command-driven interface
-> Support for multiple clients
-> Real-time messaging
+-> User authentication
+-> Command-driven interface
+-> Support for multiple clients
+-> Real-time messaging
 
